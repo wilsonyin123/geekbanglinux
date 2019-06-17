@@ -1,2 +1,2 @@
-# geekbanglinux
-Linux 实战技能100讲
+# Linux 实战技能100讲
+课程相关文档
